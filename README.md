@@ -8,4 +8,4 @@ This is a UI only beginner app. In this app beginner animations implementation i
 
 ### Screenshot
 
-<img src="screenshots/faouzia.png" width="800">
+<img src="screenshots/faouzia.png" width="600">
